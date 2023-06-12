@@ -1,0 +1,27 @@
+body{
+    background-image: url("/images/bg2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-position: center; */
+}
+
+.row{
+    margin-bottom: 4mm;
+}
+
+input{
+    width: 100mm;
+}
+
+.card-header{
+    background-color: #00a2fd;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: -20px -3px 16px 7px rgba(0, 0, 0, 0.2), 20px -3px 16px 7px rgba(0, 0, 0, 0.19);
+}
+
+.card-body{
+    box-shadow: -18px 12px 16px 7px rgba(0, 0, 0, 0.2), 18px 12px 16px 7px rgba(0, 0, 0, 0.19);
+}
